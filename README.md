@@ -1,4 +1,4 @@
-# diptych
+# Diptych
 
 Pixel-reflow an image to match the dimensions of your text. Save the result as a diptych.
 
